@@ -1,12 +1,18 @@
+# Important
+This File Working In Linux(Debian,Ubuntu,Kali Linux)
+
+<b>Tested In Kali Linux</b>
+
+<b>THIS FILE NOT WORKING IN WINDOWS</b>
 # How To Install
-Use Code In Terminal Linux(Debian,Ubuntu,Kali Linux)
+Use Code In <b>Terminal Linux(Debian,Ubuntu,Kali Linux)</b>
 <pre> 
 git clone https://github.com/khaled-dev-loper/webdriver-firefox-installer.git 
 
 cd webdriver-firefox-installer
 
 </pre>
-Download Your Webdriver From <a href='https://github.com/mozilla/geckodriver/releases' rel='nofollow'>HERE</a> And Extract geckodriver in <b>webdriver-firefox-installer</b> folder
+Download Your Webdriver From <a href='https://github.com/mozilla/geckodriver/releases' rel='nofollow'>HERE</a> and Extract geckodriver in <b>webdriver-firefox-installer</b> folder
 
 run Python File:
 <pre>
@@ -17,3 +23,5 @@ pytohn3 installation.py
 chmod +x installation.sh
 ./installation.sh
 </pre>
+
+Install Completed <b>:)</b>
