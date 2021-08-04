@@ -20,7 +20,7 @@ python3 ./installation.py
 </pre>
 <b>or</b> run Bash File
 <pre>
-chmod +x installation.sh
+chmod +x ./installation.sh
 ./installation.sh
 </pre>
 
