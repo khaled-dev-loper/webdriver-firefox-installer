@@ -16,7 +16,7 @@ Download Your Webdriver From <a href='https://github.com/mozilla/geckodriver/rel
 
 run Python File:
 <pre>
-pytohn3 installation.py
+python3 ./installation.py
 </pre>
 <b>or</b> run Bash File
 <pre>
